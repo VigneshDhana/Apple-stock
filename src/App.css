@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row{
+  width: 150px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #696a6b;
+}
+.head{
+  height: 50px;
+  background-color: #282c34;
+  color: aliceblue;
+}
